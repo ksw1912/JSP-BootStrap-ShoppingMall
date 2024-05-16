@@ -1,4 +1,4 @@
-<h1>WebShoppingmall in MVC format</h1>
+<h1>WebShoppingmall in MVC format(Proceeding)</h1>
 <p>Function: Login, change password, purchase, purchase confirmation
 Features to be added in the future</p>
 <p>Technology stack: servlet, jsp, jstl, EL</p>
