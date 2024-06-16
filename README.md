@@ -1,4 +1,4 @@
-<h1>WebShoppingmall in MVC format(Proceeding)</h1>
+<h1>WebShoppingmall in MVC format</h1>
 <p>
   Administrator decision log
 Add product
