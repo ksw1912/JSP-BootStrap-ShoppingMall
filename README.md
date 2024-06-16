@@ -11,7 +11,7 @@ Login (db id description)<br>
 Sign up (find db id description, judge and then sign up) -> When signing up -> alert <br>
 Edit member <br>
 Modification of Postic (modified after existing Postic configuration) <br>
-Gift certificate -> Popularity? In order of views? Order of purchase? => Implementation <br>
+Product -> Popularity or In order of views or Order of purchase => Implementation <br>
 Product purchase function <br>
 Shopping Cart -> Implementation <br>
 
