@@ -33,4 +33,5 @@ How to design the current DB<br>
 User, product design<br>
 </p>
 <p>Technology stack: servlet, jsp, jstl, EL, BeanUtils</p>
+<p>Development environment: Eclipse Enterprise</p>
 <img src="https://github.com/ksw1912/JSP-BootStrap-ShoppingMall/assets/150943603/46ccc5b6-794e-499a-98aa-932ade3eb04e">
